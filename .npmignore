@@ -1,0 +1,5 @@
+# Development files
+src/
+tsconfig.json
+.gitignore
+package-lock.json
