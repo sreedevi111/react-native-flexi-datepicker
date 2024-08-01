@@ -14,6 +14,11 @@ A highly customizable and flexible date picker component for React Native applic
 - Swipeable months
 - Accessibility support
 
+## Demo
+
+![Demo](https://raw.githubusercontent.com/sreedevi111/react-native-flexi-datepicker/main/demo/demo)
+
+
 ## Installation
 
 ```bash
