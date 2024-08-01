@@ -45,7 +45,7 @@ Here's a basic example of how to use the `DatePicker` component:
 ```jsx
 import React, { useState } from 'react';
 import { View, Button } from 'react-native';
-import DatePicker from 'react-native-flexi-datepicker';
+import { DatePicker } from 'react-native-flexi-datepicker';
 
 const App = () => {
   const [isDatePickerVisible, setDatePickerVisible] = useState(false);
