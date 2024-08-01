@@ -15,8 +15,7 @@ A highly customizable and flexible date picker component for React Native applic
 - Accessibility support
 
 ## Demo
-
-![Demo](https://raw.githubusercontent.com/sreedevi111/react-native-flexi-datepicker/main/demo/demo)
+<img src="https://github.com/sreedevi111/react-native-flexi-datepicker/blob/main/demo.gif?raw=true" alt="Demo" width="300"/>
 
 
 ## Installation
