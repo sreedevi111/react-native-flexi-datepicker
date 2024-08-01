@@ -1,6 +1,6 @@
 {
     "name": "react-native-flexi-datepicker",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "A highly customizable and flexible date picker component for React Native",
     "main": "lib/index.js",
     "types": "lib/index.d.ts",
